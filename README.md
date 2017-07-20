@@ -3,7 +3,7 @@ A small standalone app written in Ruby that allows you to choose which Zwift Wor
 Modifies the value of the &lt;world&gt; tag in the prefs.xml as described in http://zwiftblog.com/world-tag/
 
 Tested on Windows 10.  
-Requires Shoes library for Ruby.  
+Requires [Shoes](http://shoesrb.com/downloads/) library for Ruby.  
 The code is published under the Apache License 2.0.  
   
 Run chosen Zwift world - Instruction  
